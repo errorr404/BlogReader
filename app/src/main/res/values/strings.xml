@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BlogStory</string>
+    <string-array name="android_name">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+        <item>eight</item>
+        <item>nine</item>
+        <item>ten</item>
+        <item>eleven</item>
+        <item>twelve</item>
+        <item>thireteen</item>
+        <item>fourteen</item>
+        <item>fifteen</item>
+        <item>sixteen</item>
+        <item>seventeen</item>
+        <item>eighteen</item>
+        <item>nineteen</item>
+        <item>twenty</item>
+    </string-array>
+    <string name="error_message">There was an error getting data from the blog.</string>
+    <string name="error_title">Oops! Sorry!</string>
+    <string name="no_items">No items to display!</string>
+</resources>
